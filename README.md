@@ -30,25 +30,25 @@ Performance Analysis
 
 # Features
 
-- Stochastic price simulation**
+- Stochastic price simulation
   - Random price process for market dynamics
 
 - Inventory-aware market making**
   - Dynamic bid/ask quoting based on inventory exposure
 
-- Limit Order Book**
+- Limit Order Book
   - Bid/ask queues
   - Price priority matching
 
-- Matching Engine**
+- Matching Engine
   - Order crossing
   - Trade execution
 
-- Trader Simulation**
+- Trader Simulation
   - Noise traders
   - Informed traders
 
-- Performance Metrics**
+- Performance Metrics
   - PnL
   - Sharpe ratio
   - Maximum drawdown
