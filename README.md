@@ -33,7 +33,7 @@ Performance Analysis
 - Stochastic price simulation
   - Random price process for market dynamics
 
-- Inventory-aware market making**
+- Inventory-aware market making
   - Dynamic bid/ask quoting based on inventory exposure
 
 - Limit Order Book
